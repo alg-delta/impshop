@@ -7,7 +7,7 @@ import Info from "./components/Info";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="impshop">
+      <BrowserRouter basename="/impshop/">
         <Header />
         <Routes>
           <Route path="/" element={<Menu />} />
