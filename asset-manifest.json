@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/impshop/static/css/main.ddeb56e8.css",
-    "main.js": "/impshop/static/js/main.fed3543c.js",
+    "main.js": "/impshop/static/js/main.58a00737.js",
     "static/js/453.daca28fb.chunk.js": "/impshop/static/js/453.daca28fb.chunk.js",
     "index.html": "/impshop/index.html",
     "main.ddeb56e8.css.map": "/impshop/static/css/main.ddeb56e8.css.map",
-    "main.fed3543c.js.map": "/impshop/static/js/main.fed3543c.js.map",
+    "main.58a00737.js.map": "/impshop/static/js/main.58a00737.js.map",
     "453.daca28fb.chunk.js.map": "/impshop/static/js/453.daca28fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddeb56e8.css",
-    "static/js/main.fed3543c.js"
+    "static/js/main.58a00737.js"
   ]
 }
